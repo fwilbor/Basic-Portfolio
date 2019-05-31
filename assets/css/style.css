@@ -11,7 +11,7 @@ Experiment with deleting lines of code from the CSS to see how it affects the we
 
 
 
-.header-container {
+.headcontainer {
 
     padding: 0 0.5rem;
     height: 40px;
@@ -29,6 +29,7 @@ Experiment with deleting lines of code from the CSS to see how it affects the we
 
       float: right;
       display: inline-block;
+      padding: 20px
 
       
     }
