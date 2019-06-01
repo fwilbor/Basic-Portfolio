@@ -11,10 +11,11 @@ Experiment with deleting lines of code from the CSS to see how it affects the we
 
 
 
-.headcontainer {
+#header {
 
     padding: 0 0.5rem;
     height: 40px;
+    background: #333;
     
      
     }
@@ -62,9 +63,7 @@ Experiment with deleting lines of code from the CSS to see how it affects the we
         background: #efeee7;
       }
       
-      header {
-        background: #333;
-      }
+  
       
       h1 {
         padding: 20px 0;
@@ -88,7 +87,7 @@ Experiment with deleting lines of code from the CSS to see how it affects the we
         width: 70%;
       }
       
-      #contact-info {
+      #contacts {
         width: 30%;
       }
       
