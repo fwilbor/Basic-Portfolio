@@ -16,7 +16,7 @@ Experiment with deleting lines of code from the CSS to see how it affects the we
     padding: 0 0.5rem;
     margin-bottom: 30px
     height: 40px;
-    background: #333;
+    background: #333333;
     
      
     }
@@ -105,6 +105,7 @@ Experiment with deleting lines of code from the CSS to see how it affects the we
         text-align: center; 
         color: #eee;
         background-color: #333;
+    
       }
 
      #allcontent {
