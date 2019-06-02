@@ -26,9 +26,10 @@ Experiment with deleting lines of code from the CSS to see how it affects the we
       margin-left: 130px
     }
 
-    .border {
+    .links {
 
       font-size: x-large;
+      font-family: serif;
       margin: 10px;
       margin: right 100px
     }
@@ -47,26 +48,14 @@ Experiment with deleting lines of code from the CSS to see how it affects the we
 
       
     }
-    
-    .border {
 
-      float: left;
+    #main-bio {
 
-
-    }
-    
-    #portfolio {
-
-      padding: right 20px;
-
+      clear: both;  
     }
 
 
-
-  
-
-    
-    body {
+      body {
         padding: 0;
         margin: 0;
         font-family: Georgia, "Times New Roman", Times, serif;
