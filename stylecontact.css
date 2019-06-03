@@ -5,6 +5,7 @@
 body {
 
   font-family: Arial, Helvetica, sans-serif;
+  background: darkred;
 }
 
 
@@ -14,7 +15,7 @@ body {
 #header {
 
     padding: 0 0.5rem;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     height: 80px;
     background: #333333;
     color: white;
@@ -69,7 +70,7 @@ a {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-    margin-top: 6px;
+    margin-top: 16px;
     margin-bottom: 16px;
     resize: vertical;
 
@@ -111,7 +112,7 @@ a {
 
   #msg {
 
-    width: 960px;
+    width: 700px;
     padding: 10px;
     margin: 30px;
     height: 333px;
@@ -119,4 +120,29 @@ a {
 
   }
 
+  #submit {
+
+    background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+
+  }
+
+  /* mouse over link */
+#submit:hover {
+  color:gold;
+}
+
+footer {
+
+  text-align: center; 
+  color: #eee;
+  background-color: #333;
+  margin-bottom: 0;
+  height: 30px;
+  padding: 10px;
+}
   
