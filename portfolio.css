@@ -31,6 +31,16 @@
           display: inline-flex;
           text-align: center;
         }
+
+        h3 {
+
+            padding: 3px;
+            font-size: larger;
+            font-style: bold;
+            
+        }
+
+    
   
   nav {
   
@@ -40,6 +50,7 @@
       display: inline-block;
       padding: 10px;
       font-family: serif;
+      font-size: larger;
       margin: 10px;
       
   }
@@ -53,8 +64,10 @@
 
     #myLove1 {
 
-        width: 100px;
+        width: 40%;
         height: 100px;
+        float: left;
+
 
     }
 
