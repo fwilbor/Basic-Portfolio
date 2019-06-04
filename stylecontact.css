@@ -24,7 +24,7 @@ body {
 }
 
 h1 {
-        padding: 20px 0;
+        padding: 20px;
         margin: 0;
         font-size: 28px;
         color: #eee;
@@ -38,7 +38,7 @@ nav {
     color: red;
     float: right;
     display: inline-block;
-    padding: 20px;
+    padding: 10px;
     font-family: serif;
     margin: 10px;
     
@@ -143,6 +143,6 @@ footer {
   background-color: #333;
   margin-bottom: 0;
   height: 30px;
-  padding: 10px;
+  padding: 10px;1
 }
   
