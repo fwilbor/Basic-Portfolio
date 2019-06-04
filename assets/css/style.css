@@ -82,6 +82,10 @@
         
       }
       
+      p {
+
+        float: left;
+      }
       a {
         color: #d21034;
       }
